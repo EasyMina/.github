@@ -1,4 +1,4 @@
-![](https://easymina.github.io/assets/images/logo.png | heigth=250)
+![](https://easymina.github.io/assets/images/logo.png | width=400)
 
 
 Helping developers upload their first zk contract to the mina blockchain.
