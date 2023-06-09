@@ -1,6 +1,6 @@
 
-<img src="https://easymina.github.io/assets/images/logo.png" height="150">
+<img src="https://easymina.github.io/assets/images/logo.png" width="60%" height="30%">
 
 Helping developers upload their first zk contract to the mina blockchain.
 
-[documentation](https://easymina.github.io/)
+➡️ [Documentation](https://easymina.github.io/)
