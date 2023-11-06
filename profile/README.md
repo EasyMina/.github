@@ -4,9 +4,9 @@ EasyMina is a beginner-friendly Node.js module that assists you in creating a ba
 
 | Title | Version | Updated | CI/CD | Statistics | License |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| EasyMina | | | | | | |
-| MinaData | | | | | | |
-| Pattern Finder | | | | | | |
+| EasyMina | | | | | | <img src="https://img.shields.io/github/license/EasyMina/easyMina"> |
+| MinaData | | | | | | <img src="https://img.shields.io/github/license/EasyMina/minaData"> |
+| Pattern Finder | | | | | | <img src="https://img.shields.io/github/license/a6b8/pattern-finder"> |
 
 
 
