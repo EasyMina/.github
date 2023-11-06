@@ -1,4 +1,4 @@
-# EasyMina
+# Overview
 
 EasyMina is a beginner-friendly Node.js module that assists you in creating a bare-bones environment for the Mina blockchain.
 
