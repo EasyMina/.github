@@ -4,6 +4,6 @@ EasyMina is a beginner-friendly Node.js module that assists you in creating a ba
 
 ## Links
 
-➡️ [EasyMina](https://github.com/EasyMina/easyMina/)
-➡️ [Mina Data]([https://easymina.github.io/](https://github.com/EasyMina/easyMina/))
-➡️ [Documentation](https://easymina.github.io/)
+➡️ [EasyMina](https://github.com/EasyMina/easyMina/)  
+➡️ [Mina Data]([https://easymina.github.io/](https://github.com/EasyMina/easyMina/))  
+➡️ [Documentation](https://easymina.github.io/)  
