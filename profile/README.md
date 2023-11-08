@@ -2,8 +2,6 @@
 
 EasyMina is a beginner-friendly Node.js module that assists you in creating a bare-bones environment for the Mina blockchain.
 
-**Npm Packages**  
-
 | Title | Version | Updated | CI/CD | Statistics | License |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | Easy Mina | <a href="https://www.npmjs.com/package/easymina"><img src="https://img.shields.io/npm/v/easymina?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <a href="https://api.github.com/repos/EasyMina/easyMina"><img src="https://img.shields.io/github/last-commit/EasyMina/easyMina?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a> | <img src="https://img.shields.io/circleci/build/github/EasyMina/easyMina?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="> | <a href="https://github.com/EasyMina/easyMina/stargazers"><img src="https://img.shields.io/github/stars/EasyMina/easyMina?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="></a><img src="https://img.shields.io/npm/dt/easymina?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="> | <img src="https://img.shields.io/github/license/EasyMina/easyMina?color=0E1116&logo=F3A966&logoColor=F3A966&style=flat&label="> |
