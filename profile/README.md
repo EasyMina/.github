@@ -14,22 +14,3 @@ This table is generated using https://github.com/a6b8/markdownTableGenerator.
 
 ## Links
 ➡️ [EasyMina Documentation](https://easymina.github.io/) 
-
-```
-     -- - - - - - --*-- - - - - - --
-    |       ___           ___       |
-    |      /\  \         /\__\      |
-    |     /::\  \       /::|  |     |
-    |    /:/\:\  \     /:|:|  |     |
-    |   /::\~\:\  \   /:/|:|__|__   |
-    |  /:/\:\ \:\__\ /:/ |::::\__\  |
-    |  \:\~\:\ \/__/ \/__/~~/:/  /  |
-    |   \:\ \:\__\         /:/  /   |
-    |    \:\ \/__/        /:/  /    |
-    |     \:\__\         /:/  /     |
-    |      \/__/         \/__/      |
-    |                               |
-     -- - -- E a s y M i n a -- - -- 
-    | change the world with zk tech |  
-    -----------------------------2023 
-```
