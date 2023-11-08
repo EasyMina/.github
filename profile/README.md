@@ -1,3 +1,24 @@
+```
+     -- - - - - - --*-- - - - - - --
+    |       ___           ___       |
+    |      /\  \         /\__\      |
+    |     /::\  \       /::|  |     |
+    |    /:/\:\  \     /:|:|  |     |
+    |   /::\~\:\  \   /:/|:|__|__   |
+    |  /:/\:\ \:\__\ /:/ |::::\__\  |
+    |  \:\~\:\ \/__/ \/__/~~/:/  /  |
+    |   \:\ \:\__\         /:/  /   |
+    |    \:\ \/__/        /:/  /    |
+    |     \:\__\         /:/  /     |
+    |      \/__/         \/__/      |
+    |                               |
+     -- - -- E a s y M i n a -- - -- 
+    | change the world with zk tech |  
+    ---------------------------------  
+```
+
+
+
 # Overview
 
 EasyMina is a beginner-friendly Node.js module that assists you in creating a bare-bones environment for the Mina blockchain.
