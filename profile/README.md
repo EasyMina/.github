@@ -11,7 +11,4 @@ This table is generated using https://github.com/a6b8/markdownTableGenerator.
 
 
 ## Links
-
-➡️ [EasyMina](https://github.com/EasyMina/easyMina/)  
-➡️ [Mina Data](https://github.com/EasyMina/minaData/)   
-➡️ [Documentation](https://easymina.github.io/)  
+➡️ [EasyMina Documentation](https://easymina.github.io/)  
