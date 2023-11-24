@@ -27,9 +27,11 @@ jobs:
       - name: Commit and Push Changes
         env:
           USER_EMAIL: ${{ secrets.USER_EMAIL }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config user.email $USER_EMAIL
           git config user.name "GitHub Actions"
           git add .
-          git commit -m "Update .md"
-          git push
+          git commit -m "Update README"
+          git remote add origin https://github.com/easyMina/.github.git
+          git push origin main
