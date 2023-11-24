@@ -33,5 +33,4 @@ jobs:
           git config user.name "a6b8"
           git add .
           git commit -m "Update README"
-          git remote add origin https://github.com/easyMina/.github.git
-          git push origin main
+          git push
