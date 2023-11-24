@@ -25,6 +25,8 @@ jobs:
         run: node update.mjs
 
       - name: Commit and Push Changes
+        env:
+          USER_EMAIL: ${{ secrets.USER_EMAIL }}
         run: |
           git config user.email $USER_EMAIL
           git config user.name "GitHub Actions"
