@@ -1,7 +1,7 @@
 const config = {
     'npmPackages': [
         {
-            "title": "Easy Mina",
+            "title": "---Easy Mina",
             "packageName": "easymina",
             "githubUserName": "EasyMina",
             "githubRepository": "easyMina"
