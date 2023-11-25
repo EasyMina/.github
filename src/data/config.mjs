@@ -14,7 +14,7 @@ const config = {
         },
         {
             "title": "Mina Data API",
-            "packageName": "minadata",
+            "packageName": "minadataapi",
             "githubUserName": "EasyMina",
             "githubRepository": "minaDataAPI"
         }
