@@ -15,4 +15,6 @@ This table is generated using https://github.com/a6b8/badgeTable
 
 ## Links
 ➡️ [EasyMina Documentation](https://easymina.github.io/)  
-➡️ [Milestones](https://github.com/orgs/EasyMina/projects/2) 
+➡️ [Milestones](https://github.com/orgs/EasyMina/projects/2)  
+➡️ [Navigators](https://github.com/EasyMina/minaGPT/blob/main/navigators.md)  
+➡️ [zkIgnite Navigators](https://github.com/EasyMina/minaGPT/blob/main/zkIgniteNavigators.md) 
