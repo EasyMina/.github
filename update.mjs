@@ -6,7 +6,7 @@ const btg = new BadgeTable()
 let template = fs.readFileSync( './src/data/template.txt', 'utf-8' )
 
 const badgeTable = btg.getTable( {
-    'template': 'npmPackages',
+    'preset': 'npmPackages',
     'projects': config['npmPackages']
 } )
 
